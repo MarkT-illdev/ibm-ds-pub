@@ -1,2 +1,2 @@
-# idm-ds-pub
+# ibm-ds-pub
 for public submission
